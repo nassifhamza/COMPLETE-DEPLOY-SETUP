@@ -562,39 +562,37 @@ For your convenience, here are the default credentials for the services in this 
 These credentials are used in the `docker-compose.yml` and are referenced in the `Jenkinsfile` example for integration purposes.
 
 
-  ![Jenkins → Manage Credentials view]
-  
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155353.png
+  Jenkins → Manage Credentials view
 
+<img width="1349" height="641" alt="Image" src="https://github.com/user-attachments/assets/681e9b98-0db0-44d8-b71d-529a01be0380" />
 
 
   ![Jenkins → SonarQube server configuration]
+
   
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155538.png
+  <img width="1354" height="640" alt="Image" src="https://github.com/user-attachments/assets/0ca6f18a-d438-4546-aefd-ee99ce3708ff" />
 
 
-   ![Nexus → Repository Settings landing page]
 
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155700.png
-
-
-   ![Nexus → Default list of repositories]
-   
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155739.png
+<img src="https://github.com/user-attachments/assets/45dd9fb4-4245-43f1-9544-4f7dedc29282" alt="Nexus Repository Settings Panel" width="800" style="margin-top:10px; border-radius:6px;">
 
 
- 
-   ![Docker Hosted Repository Settings]
-   
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155802.png
 
 
-   ![Nexus → Users screen]
-   
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155833.png
+<img src="https://github.com/user-attachments/assets/b77fce88-d00d-4226-b680-f9f2ed972e5b" alt="Default Repositories View" width="800" style="margin-top:10px; border-radius:6px;">
 
 
-  ![SonarQube → Project creation screen]
-  
-https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20160031.png
+
+
+
+<img width="1353" height="645" alt="Image" src="https://github.com/user-attachments/assets/7c15ac95-35ef-4865-a5f1-a5f0f54a0f66" />
+
+
+
+<img width="1365" height="591" alt="Image" src="https://github.com/user-attachments/assets/e2c4809f-acae-4b7c-a658-5eccb2ef55fc" />
+
+
+<img src="https://github.com/user-attachments/assets/b59e2f31-3ef8-49c1-a33b-2b9a12e75256" alt="SonarQube Project Setup" width="800" style="margin-top:10px; border-radius:6px;">
+
+
 
