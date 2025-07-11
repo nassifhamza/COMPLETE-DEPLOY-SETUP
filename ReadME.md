@@ -562,36 +562,46 @@ For your convenience, here are the default credentials for the services in this 
 These credentials are used in the `docker-compose.yml` and are referenced in the `Jenkinsfile` example for integration purposes.
 
 
-  Jenkins → Manage Credentials view
 
-<img width="1349" height="641" alt="Image" src="https://github.com/user-attachments/assets/681e9b98-0db0-44d8-b71d-529a01be0380" />
+   Jenkins Integrations — Credentials Setup
+
+<img src="https://github.com/user-attachments/assets/681e9b98-0db0-44d8-b71d-529a01be0380" alt="Jenkins Credentials" width="800" style="margin-top:10px; border-radius:6px;">
+
+ 
+
+   Jenkins Integrations — SonarQube Server Configuration
+   
+  <img src="(https://github.com/user-attachments/assets/0ca6f18a-d438-4546-aefd-ee99ce3708ff" alt="SonarQube Server Configuration" width="800" style="margin-top:10px; border-radius:6px;">
 
 
-  ![Jenkins → SonarQube server configuration]
-
-  
-  <img width="1354" height="640" alt="Image" src="https://github.com/user-attachments/assets/0ca6f18a-d438-4546-aefd-ee99ce3708ff" />
 
 
+  Nexus Repository — Overview Panel
 
 <img src="https://github.com/user-attachments/assets/45dd9fb4-4245-43f1-9544-4f7dedc29282" alt="Nexus Repository Settings Panel" width="800" style="margin-top:10px; border-radius:6px;">
 
 
 
-
+  Nexus Repository — Repositories List
+  
 <img src="https://github.com/user-attachments/assets/b77fce88-d00d-4226-b680-f9f2ed972e5b" alt="Default Repositories View" width="800" style="margin-top:10px; border-radius:6px;">
 
 
 
+   Nexus Repository — Docker Hosted Repository Configuration
+ 
+<img src="https://github.com/user-attachments/assets/7c15ac95-35ef-4865-a5f1-a5f0f54a0f66" alt="Docker Hosted Repository Settings" width="800" style="margin-top:10px; border-radius:6px;">
 
 
-<img width="1353" height="645" alt="Image" src="https://github.com/user-attachments/assets/7c15ac95-35ef-4865-a5f1-a5f0f54a0f66" />
+
+   Default Credentials — Nexus Users
+
+<img src="https://github.com/user-attachments/assets/e2c4809f-acae-4b7c-a658-5eccb2ef55fc" alt="Nexus Users" width="800" style="margin-top:10px; border-radius:6px;">
 
 
 
-<img width="1365" height="591" alt="Image" src="https://github.com/user-attachments/assets/e2c4809f-acae-4b7c-a658-5eccb2ef55fc" />
-
-
+   SonarQube — Project Creation Interface
+  
 <img src="https://github.com/user-attachments/assets/b59e2f31-3ef8-49c1-a33b-2b9a12e75256" alt="SonarQube Project Setup" width="800" style="margin-top:10px; border-radius:6px;">
 
 
