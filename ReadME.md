@@ -569,9 +569,19 @@ These credentials are used in the `docker-compose.yml` and are referenced in the
 
  
 
+
+
+
+
+
+
    Jenkins Integrations — SonarQube Server Configuration
    
-  <img src="(https://github.com/user-attachments/assets/0ca6f18a-d438-4546-aefd-ee99ce3708ff" alt="SonarQube Server Configuration" width="800" style="margin-top:10px; border-radius:6px;">
+  <img src="https://github.com/user-attachments/assets/0ca6f18a-d438-4546-aefd-ee99ce3708ff" alt="SonarQube Server Configuration" width="800" style="margin-top:10px; border-radius:6px;">
+
+
+
+
 
 
 
@@ -582,9 +592,21 @@ These credentials are used in the `docker-compose.yml` and are referenced in the
 
 
 
+
+
+
+
+
+
+
   Nexus Repository — Repositories List
   
 <img src="https://github.com/user-attachments/assets/b77fce88-d00d-4226-b680-f9f2ed972e5b" alt="Default Repositories View" width="800" style="margin-top:10px; border-radius:6px;">
+
+
+
+
+
 
 
 
@@ -594,9 +616,24 @@ These credentials are used in the `docker-compose.yml` and are referenced in the
 
 
 
+
+
+
+
+
+
+
    Default Credentials — Nexus Users
 
 <img src="https://github.com/user-attachments/assets/e2c4809f-acae-4b7c-a658-5eccb2ef55fc" alt="Nexus Users" width="800" style="margin-top:10px; border-radius:6px;">
+
+
+
+
+
+
+
+
 
 
 
