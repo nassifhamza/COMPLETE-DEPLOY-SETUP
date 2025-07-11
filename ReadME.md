@@ -562,4 +562,39 @@ For your convenience, here are the default credentials for the services in this 
 These credentials are used in the `docker-compose.yml` and are referenced in the `Jenkinsfile` example for integration purposes.
 
 
+  ![Jenkins → Manage Credentials view]
+  
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155353.png
+
+
+
+  ![Jenkins → SonarQube server configuration]
+  
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155538.png
+
+
+   ![Nexus → Repository Settings landing page]
+
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155700.png
+
+
+   ![Nexus → Default list of repositories]
+   
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155739.png
+
+
+ 
+   ![Docker Hosted Repository Settings]
+   
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155802.png
+
+
+   ![Nexus → Users screen]
+   
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20155833.png
+
+
+  ![SonarQube → Project creation screen]
+  
+https://github.com/nassifhamza/COMPLETE-DEPLOY-SETUP/blob/59c23e5516f1df2be34fc0abc55d5bb19ee1322f/screenshots/Screenshot%202025-07-11%20160031.png
 
